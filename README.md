@@ -17,8 +17,6 @@ Transitioning from technical operations into a dedicated SOC Analyst role, lever
 
 ## 📂 Portfolio Structure & Labs
 
-| Lab # | Module & Title | Key Technologies / Skills | Status |
-| :---: | :--- | :--- | :---: |
 | **01** | [Detection Engineering & M365 BEC](./01-Detection-Engineering/KQL-vs-SPL-BEC-Detection.md) | KQL, SPL, Microsoft Sentinel, Splunk, Business Email Compromise | **Completed** |
 | **02** | [API Account Takeover & Exfiltration](./02-Cloud-Forensics-M365/Lab-02-API-Account-Takeover-Exfiltration.md) | JSON Parsing, Brute Force Triage, Financial Fraud Detection, SPL | **Completed** |
 | **03** | [Network Packet Triage & PCAP Forensics](./03-Network-Forensics/Lab-03-Wireshark-Packet-Triage.md) | Wireshark, TCP Streams, Packet Payload Analysis | **Completed** |
